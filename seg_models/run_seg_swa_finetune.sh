@@ -1,0 +1,1 @@
+python swa_models_5_slice.py -i ./our_model_snap/seg_efv2l_v2_416 -o ./our_model_snap/seg_efv2l_v2_416/models_swa_{}.pth.tar -cfg ./configs/seg_efv2l_v2_416.json
