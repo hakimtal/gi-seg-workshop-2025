@@ -1,1 +1,0 @@
-python efficientdet_test_videos.py ./logs256/coco/efficientdet-d0_7_1500.pth ./datasets/images/
