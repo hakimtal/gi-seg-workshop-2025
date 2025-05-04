@@ -1,10 +1,9 @@
 # GI Tract Segmentation – Workshop Project (TAU)
 
 ### Training
+**All scripts are run from the `seg_models` directory.**
 
-> **All scripts are run from the `seg_models` directory.**
-> 
-> so first do: `cd seg_models`
+so first do: `cd seg_models`
 
 ---
 #### Setup
