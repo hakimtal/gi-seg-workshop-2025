@@ -647,7 +647,7 @@ def train_one_model(fold_id, model, train_batch_size, val_batch_size, lr_init, t
 
 
 if __name__ == '__main__':
-    os.environ["CUDA_VISIBLE_DEVICES"] = "5"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     fold_id = int(sys.argv[2])
 
     csv_path = configs["csv_path"]
