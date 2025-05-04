@@ -1,5 +1,7 @@
 # GI Tract Segmentation – Workshop Project (TAU)
 
+Note: This guide specifically covers the training procedures for the segmentation component. All other pipeline components, including ROI detection, preprocessing, and classification training, have already been completed and are fully prepared and ready to use.
+
 ### Training
 **All scripts are run from the `seg_models` directory.**
 
@@ -13,9 +15,7 @@ Make sure to install all requierments:
 pip install -r requirements.txt
 ```
 
----
-
-#### Download the pretrained classification weights:
+Download the pretrained classification weights:
 
 ```bash
 sh download_cls_models.sh
