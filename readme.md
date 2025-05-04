@@ -61,7 +61,7 @@ sh run_seg_swa_finetune.sh
    ./upload_to_kaggle.sh <your-kaggle-username>
    ```
 
-3. Copy the kaggle notebook and add replace the existing hausdorf weights with yours:
+3. Copy the kaggle notebook and replace the existing hausdorf weights with yours:
    https://www.kaggle.com/code/talhakim/segmentation-demo/notebook
 ---
 
